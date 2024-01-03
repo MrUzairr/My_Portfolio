@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "title":"E-Commerce Site",
+        "url":"https://e-commerce-webpages.netlify.app/",
+        "description":"I've crafted an exceptional e-commerce platform that seamlessly blends style and functionality. Our site offers a diverse range of products, and intuitive navigation,  ensuring a delightful shopping experience.With responsive design and personalized recommendations.",
+        "image":"/web1p.png"
+    },
+    {
+        "id":2,
+        "title":"Blogging Site",
+        "url":"https://mern-blogs-app.netlify.app/",
+        "description":"Discover a dynamic blogging platform I've crafted, featuring diverse topics, engaging content, and a user-friendly interface for seamless reading and writing experiences.",
+        "image":"/web2p.png"
+    },
+    {
+        "id":3,
+        "title":"Hotel Booking Site",
+        "url":"https://hotelbooking-apps.netlify.app/",
+        "description":"Discover our user-friendly hotel booking site, offering a seamless experience. Browse thousands of accommodations, find great deals, and book your perfect stay effortlessly. Your journey begins here.",
+        "image":"/web3p.png"
+    },
+    {
+        "id":4,
+        "title":"Gymnasiam Site",
+        "url":"https://fitflexed.netlify.app/",
+        "description":"Gymnaziam's website, meticulously designed, offers a dynamic platform for fitness enthusiasts. Explore classes, trainers, and nutrition tips seamlessly, making your wellness journey accessible and engaging.",
+        "image":"/web4p.png"
+    }
+]

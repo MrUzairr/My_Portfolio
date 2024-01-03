@@ -1,0 +1,15 @@
+/* Add this to your CSS file */
+.spin-animation {
+    animation: spin 4s linear; /* Change the duration to 5 seconds or as desired */
+    transform-style: preserve-3d; /* Enable 3D transformations */
+    transform: rotateY(360deg); /* Rotate around the Y-axis to create a 3D effect */
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotateY(0deg);
+    }
+    100% {
+      transform: rotateY(360deg);
+    }
+  }
